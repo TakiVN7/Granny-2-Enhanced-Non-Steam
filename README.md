@@ -2,7 +2,7 @@
 
 Play Granny 2 Enhanced without Steam/owning the original Granny 2! <br />
 How to play: Run "Play Granny 2 Enhanced x64.exe" or "Play Granny 2 Enhanced.exe" <br />
-Original game: https://gamejolt.com/games/g2enhanced/1032847  
+Original game: https://gamejolt.com/games/g2enhanced/1032847 <br />
 Granny Legacy Non-Steam: https://github.com/TakiVN7/Granny-Legacy-Non-Steam
 ## Star History
 
